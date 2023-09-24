@@ -1,8 +1,8 @@
-# 💫 About Me:
+# Sobre Robert:
 🔭 Atualmente trabalho em Valuation na EY, e curso MBA em Data Science Analytics<br>👯 Quero contribuir com a comunidade com projetos de interesse pessoal.<br>🤝 Procuro ajuda pra o aprendizado em projetos de ciência de dados<br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/robert-trajano/) 
 
 # 💻 Tech Stack:
